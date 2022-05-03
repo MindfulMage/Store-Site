@@ -1,39 +1,9 @@
-h1{
-        color: burlywood;
-}
-ul  {
-    border: 5px  dotted;
-    width: 50%;
-    margin: auto;
-    list-style:  none;         
-    padding-left: 0%;
-} 
-
-ul  li  {
-    border: outset;
-    display: inline-block;
-    padding-left: 10px;
-
-}
-
-
-ul   li  {
-text-align: center;
-list-style: none;
-}
-
-
 img {
-    display: block;
-    width: 50%;
-    height: 25%;
-    margin: auto;
-
-}
-
- img {
-display: block;
-width: 50%;
+display:inline;
+width: 25%;
 margin: auto;
- }
- 
+height: auto;
+}
+p {
+display: inline;
+}
